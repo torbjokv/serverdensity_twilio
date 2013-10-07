@@ -13,5 +13,9 @@ To install:
 
 
 Links:
-- http://www.serverdensity.com/
-- https://www.twilio.com/
+- Server Density: http://www.serverdensity.com/
+- Twilio: https://www.twilio.com/
+- About the wehook format: http://support.serverdensity.com/knowledgebase/articles/221772-webhook-format
+- How to set up webhook: http://support.serverdensity.com/knowledgebase/articles/206749-setting-up-webhooks
+
+
