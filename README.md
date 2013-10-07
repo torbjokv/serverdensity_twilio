@@ -10,5 +10,8 @@ To install:
 - Setup a hook at Server density with your URL similar to this: http://www.example.com/?phone=123456789
 
 
-http://www.serverdensity.com/
-https://www.twilio.com/
+
+
+Links:
+- http://www.serverdensity.com/
+- https://www.twilio.com/
