@@ -1,7 +1,7 @@
 Receive Server Density events as Twilio calls
 ====================
 
-PHP script to activate phone calls using Server Density V2 and Twilio
+PHP script to activate phone calls using Server Density webhooks and Twilio
 
 
 To install:
